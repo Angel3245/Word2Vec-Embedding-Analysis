@@ -1,0 +1,13 @@
+name: lm
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - tqdm
+  - optuna
+  - plotly
+prefix: /home/user/miniconda3/envs/lm
